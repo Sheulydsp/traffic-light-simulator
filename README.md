@@ -14,7 +14,9 @@ A simple yet educational Python project that simulates a traffic light system wi
 
 > NS and EW traffic lights are shown in boxes. Pedestrian signals with emojis are placed clearly next to the respective light groups.
 
-![screenshot](#)  
+  
+![Traffic Light GUI](screenshot.png)
+
 *(You can upload a screenshot and link it here later)*
 
 ## 🧠 Concepts Covered
@@ -32,4 +34,4 @@ A simple yet educational Python project that simulates a traffic light system wi
 git clone https://github.com/yourusername/traffic-light-simulator.git
 cd traffic-light-simulator
 
-![Traffic Light GUI](screenshot.png)
+
